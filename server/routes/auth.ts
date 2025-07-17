@@ -1,9 +1,9 @@
-import { signupInput } from "@100xdevs/common";
 import jwt from "jsonwebtoken";
 import express from "express";
 import { authenticateJwt, SECRET } from "../middleware/";
 import { User } from "../db";
 import { z } from "zod";
+import { signupInput } from "@kvm17/common";
 
 const router = express.Router();
 

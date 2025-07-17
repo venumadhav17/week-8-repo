@@ -312,6 +312,13 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@kvm17/common@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/@kvm17/common/-/common-1.0.1.tgz"
+  integrity sha512-YgJdCDmCRHdNfbQOwfI6VWOsMh9g63uAO0vEE+cenTprrGBpL7tMzRYk96I24bU1Lj4zGFtxAe4jUgAQKMG8yg==
+  dependencies:
+    zod "^4.0.5"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
@@ -1463,3 +1470,8 @@ zod@^3.21.4:
   version "3.21.4"
   resolved "https://registry.npmjs.org/zod/-/zod-3.21.4.tgz"
   integrity sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==
+
+zod@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.npmjs.org/zod/-/zod-4.0.5.tgz"
+  integrity sha512-/5UuuRPStvHXu7RS+gmvRf4NXrNxpSllGwDnCBcJZtQsKrviYXm54yDGV2KYNLT5kq0lHGcl7lqWJLgSaG+tgA==
